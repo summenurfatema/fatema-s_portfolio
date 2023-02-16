@@ -5,7 +5,7 @@ module.exports = {
   ],
   theme: {
     extend: {
-      keyframes: {
+      animations: {
         wave: {
           '0%': { transform: 'rotate(0.0deg)' },
           '10%': { transform: 'rotate(14deg)' },

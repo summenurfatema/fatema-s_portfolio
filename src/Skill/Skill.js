@@ -2,7 +2,7 @@ import React from 'react';
 import CountUp from 'react-countup';
 const Skill = () => {
     return (
-        <div className=' relative'>
+        <div className=''>
             {/* left */}
             <div className='h-[920px] w-2  rounded-full bg-white ml-20 relative'>
                 {/* html */}
@@ -46,6 +46,7 @@ const Skill = () => {
             <div className='h-[370px] w-2 container ml-40 rounded-full bg-white absolute bottom-[260px] left-[1080px]'></div>
             <div className='h-[370px] w-2 container ml-40 rounded-full bg-white absolute bottom-[260px] left-[1230px]'></div>
             <div></div>
+            <div className='relative container mx-auto'>
              {/* top  box */}
              <div className='h-[120px] w-[140px] container ml-40 rounded-lg bg-yellow-300 absolute bottom-[506px] left-[44px]'>
                 <h1 className='text-3xl font-bold tracking-widest text-center pt-5'>HTML</h1>
@@ -66,6 +67,7 @@ const Skill = () => {
             <div className='h-[120px] w-[144px] container ml-40 rounded-lg bg-yellow-300 absolute bottom-[264px] left-[636px]'></div>
             <div className='h-[120px] w-[144px] container ml-40 rounded-lg bg-yellow-300 absolute bottom-[264px] left-[936px]'></div>
             {/* right */}
+            </div>
             <div></div>
         </div>
     );

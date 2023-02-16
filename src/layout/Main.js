@@ -11,9 +11,9 @@ const Main = () => {
     <div className="bg-[#141317]">
       <NavBar />
       {/* <Hero/> */}
-      <Skill/>
+      {/* <Skill/> */}
       <Contact/>
-      <Hobby/>
+      {/* <Hobby/> */}
     </div>
   );
 };
