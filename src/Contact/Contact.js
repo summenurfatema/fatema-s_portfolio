@@ -43,7 +43,7 @@ const Contact = () => {
             {/*3*/}
 
             <div className="flex items-center space-x-2">
-            {/* <FaL */}
+            
             <img src={home} className='h-14 w-14 md:h-20 md:w-20' alt=' '/> 
 <div className="space-y-0">
 
