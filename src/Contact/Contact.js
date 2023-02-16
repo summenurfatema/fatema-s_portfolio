@@ -33,7 +33,7 @@ const Contact = () => {
             {/*2 */}
 
             <div className="flex items-center space-x-4 md:space-x-6">
-            {/* <FaEnvelopeOpen className='h-8 w-10 text-blue-700'/> */}
+            {/* <FaEnvelopeOpen classNaext-blue-700'/> */}
             <img src={post} className='h-14 w-14' alt=' '/> 
 <div className="space-y-0">
 <p className=" text-sm md:tracking-wide  md:text-xl  lg:text-2xl  text-white lg:tracking-wide font-bold tracking-tight">E-mail</p>
