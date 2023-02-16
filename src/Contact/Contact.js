@@ -23,7 +23,7 @@ const Contact = () => {
             {/*1 */}
 
            <div className="flex items-center space-x-2">
-          {/* <FaPhone classNamet-blue-700'/> */}
+          {/* <ue-700'/> */}
           <img src={phone} className='h-14 w-14 md:h-20 md:w-20' alt=' '/> 
           <div className="space-y-0">
 <p className="text-sm font-bold md:tracking-wide   md:text-xl lg:text-2xl  text-white lg:tracking-wide   tracking-tight">Phone</p>
