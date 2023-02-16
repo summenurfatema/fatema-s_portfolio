@@ -43,7 +43,7 @@ const Contact = () => {
             {/*3*/}
 
             <div className="flex items-center space-x-2">
-            {/* <FaLocationArrow className='h-8 w-10 text-blue-700'/> */}
+            {/* <FaLocationArrow clae='h-8 w-10 text-blue-700'/> */}
             <img src={home} className='h-14 w-14 md:h-20 md:w-20' alt=' '/> 
 <div className="space-y-0">
 
